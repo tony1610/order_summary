@@ -138,10 +138,12 @@ body {
 .btn {
   background-color: var(--color-primary-700);
   color: var(--color-primary-600);
+  font-weight: 700;
+  font-size: 1.7rem;
   box-shadow: 0px 10px 10px hsla(245, 75%, 52%, 0.296);
 
-  padding: 1em 3em;
-  margin-top: 2rem;
+  padding: 1.3em 3em;
+  margin-top: 3rem;
   margin-bottom: 4rem;
 
   width: 100%;
